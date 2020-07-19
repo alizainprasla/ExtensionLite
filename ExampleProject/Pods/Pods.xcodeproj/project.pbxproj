@@ -53,24 +53,24 @@
 		766FB2748C7BD97AC956A6C7C4188645 /* Pods-ExampleProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ExampleProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 		79C243F12140EE83DD9443F34520C8D2 /* Pods-ExampleProjectTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ExampleProjectTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		7E3135E7CE22A35262AE9FC5661B371C /* ExtensionLite.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ExtensionLite.debug.xcconfig; sourceTree = "<group>"; };
-		8049C13676BD83C220BF6F59A344F440 /* ExtensionLite.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ExtensionLite.framework; path = ExtensionLite.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8049C13676BD83C220BF6F59A344F440 /* ExtensionLite.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ExtensionLite.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		80DB713C759919CCEC55012FCB4B2EE1 /* Pods-ExampleProject-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ExampleProject-umbrella.h"; sourceTree = "<group>"; };
 		8A610A8CDC725290EAA243208EE72D2F /* ExtensionLite-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ExtensionLite-umbrella.h"; sourceTree = "<group>"; };
 		9434D7E3C686421271C3E427FB6BD5FB /* Pods-ExampleProject-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ExampleProject-acknowledgements.plist"; sourceTree = "<group>"; };
 		9883667F6B6053632242EAF1A9DD5371 /* ExtensionLite-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ExtensionLite-dummy.m"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9FB462699D00E9C97748F5DCBBD28C7B /* Date+Extension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
 		A0EFC964638CC727E45D9CF7274DF4D9 /* Pods-ExampleProject-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ExampleProject-acknowledgements.markdown"; sourceTree = "<group>"; };
 		ACD45027CC4E4840F18DA82E8AB91F84 /* Pods-ExampleProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ExampleProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
-		C7638E6641B4549A3211530E8BBBFDBC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		C7638E6641B4549A3211530E8BBBFDBC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D0E2C36E330F6A1C3F3949474A6DCCD3 /* ExtensionLite.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ExtensionLite.release.xcconfig; sourceTree = "<group>"; };
-		D13B1B4A424E6E3C22E4C6CC4F76251F /* ExtensionLite.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ExtensionLite.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D13B1B4A424E6E3C22E4C6CC4F76251F /* ExtensionLite.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ExtensionLite.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D4C35C324BCE7EFEF85604800D19E8A7 /* Pods-ExampleProjectTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ExampleProjectTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		DAF3232AEF57CE974EA2932F653A3435 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		DAF3232AEF57CE974EA2932F653A3435 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DF063A890110BF6054C486339860E4ED /* ExtensionLite-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ExtensionLite-prefix.pch"; sourceTree = "<group>"; };
 		E9A59B7CA2FC1D19E1CD120913F5C67C /* Pods-ExampleProject-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ExampleProject-Info.plist"; sourceTree = "<group>"; };
-		F584F356BA2B0FCC108479DAAC2ADEE0 /* Pods_ExampleProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ExampleProject.framework; path = "Pods-ExampleProject.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F58CE688C4F635A0D9648421718B62D5 /* Pods_ExampleProjectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ExampleProjectTests.framework; path = "Pods-ExampleProjectTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F584F356BA2B0FCC108479DAAC2ADEE0 /* Pods_ExampleProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExampleProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F58CE688C4F635A0D9648421718B62D5 /* Pods_ExampleProjectTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExampleProjectTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5C0CC39B52A1AE7BA294B524A143BF7 /* Pods-ExampleProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ExampleProject.release.xcconfig"; sourceTree = "<group>"; };
 		FBF143CFC4B72183ED3EDFD6792D1491 /* Pods-ExampleProjectTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ExampleProjectTests-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -195,7 +195,6 @@
 			children = (
 				9FB462699D00E9C97748F5DCBBD28C7B /* Date+Extension.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -443,6 +442,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.0.2;
 				MODULEMAP_FILE = "Target Support Files/ExtensionLite/ExtensionLite.modulemap";
 				PRODUCT_MODULE_NAME = ExtensionLite;
 				PRODUCT_NAME = ExtensionLite;
@@ -479,6 +479,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.0.2;
 				MODULEMAP_FILE = "Target Support Files/ExtensionLite/ExtensionLite.modulemap";
 				PRODUCT_MODULE_NAME = ExtensionLite;
 				PRODUCT_NAME = ExtensionLite;
