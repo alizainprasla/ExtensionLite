@@ -1,2 +1,2 @@
 # ExtensionLite
-https://cocoapod-badges.herokuapp.com/v/$PODNAME/badge.png
+https://cocoapod-badges.herokuapp.com/v/ExtensionLite/badge.png
