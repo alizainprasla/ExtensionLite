@@ -1,4 +1,2 @@
 # ExtensionLite
-
-
-https://img.shields.io/cocoapods/v/ExtensionLite.svg
+https://cocoapod-badges.herokuapp.com/v/$PODNAME/badge.png
