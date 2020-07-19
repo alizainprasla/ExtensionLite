@@ -11,7 +11,7 @@ s.license           = {
 :file => 'LICENSE'
 }
 s.author            = {
-'YOURNAME' => 'Alizain Prasla'
+'Alizain Prasla' => 'alizain.prasla@gmail.com'
 }
 s.source            = {
 :git => 'https://github.com/alizainprasla/ExtensionLite.git',
