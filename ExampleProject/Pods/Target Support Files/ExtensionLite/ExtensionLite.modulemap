@@ -1,0 +1,6 @@
+framework module ExtensionLite {
+  umbrella header "ExtensionLite-umbrella.h"
+
+  export *
+  module * { export * }
+}
