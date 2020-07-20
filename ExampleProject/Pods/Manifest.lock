@@ -1,5 +1,5 @@
 PODS:
-  - ExtensionLite (0.0.1)
+  - ExtensionLite (0.0.2)
 
 DEPENDENCIES:
   - ExtensionLite (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ExtensionLite: d78ab071888062b9c17436422d851c23c621aeee
+  ExtensionLite: bab65584a821b5592e32ae3678e90896c702ffc0
 
 PODFILE CHECKSUM: 91b98c219dd229414e08a88d6d0332ca7dcd8c5e
 
