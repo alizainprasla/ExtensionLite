@@ -478,6 +478,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.0.4;
 				MODULEMAP_FILE = "Target Support Files/ExtensionLite/ExtensionLite.modulemap";
 				PRODUCT_MODULE_NAME = ExtensionLite;
 				PRODUCT_NAME = ExtensionLite;
@@ -694,6 +695,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.0.4;
 				MODULEMAP_FILE = "Target Support Files/ExtensionLite/ExtensionLite.modulemap";
 				PRODUCT_MODULE_NAME = ExtensionLite;
 				PRODUCT_NAME = ExtensionLite;

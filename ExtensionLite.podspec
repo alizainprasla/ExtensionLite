@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name              = 'ExtensionLite'
-  s.version           = '0.0.2'
+  s.version           = '0.0.4'
   s.summary           = 'iOS common extension for UIView, UIControl, Date, UIVIewController and manymore'
   s.homepage          = 'https://github.com/alizainprasla/ExtensionLite'
   s.ios.deployment_target = '8.0'
