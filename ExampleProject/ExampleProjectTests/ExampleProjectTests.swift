@@ -8,7 +8,6 @@
 
 import XCTest
 @testable import ExampleProject
-@testable import ExtensionLite
 
 class ExampleProjectTests: XCTestCase {
 
